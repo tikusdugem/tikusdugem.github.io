@@ -37,6 +37,12 @@ h3 {
   font-size: 2rem;
 }
 
+@media (max-width: 530px) {
+  h1 {
+    font-size: 3rem;
+  }
+}
+
 p.lead {
   font-size: 1.15rem;
   font-weight: 400;
@@ -65,7 +71,7 @@ p.lead {
       margin-right: 0;
     }
     &:hover {
-      background-color: $primary;
+      background-color: darken(#77B5FE, 15%);
     }
   }
 }
