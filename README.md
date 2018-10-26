@@ -9,7 +9,7 @@
 
 ## Hosting By Github-Pages
 
-- Create a new repository with your github username. Example: *username*.github.io
+- Create a new repository with your github username. Example: ***username*.github.io**
 - Push your template or file index.html to your repository
 - Open your browser and fire! **https://*username*.github.io**
 - Further information for hosting in github-pages https://pages.github.com
@@ -24,10 +24,12 @@
     ```
 - Push to your repository
 - Make sure you already have domain. Configure your DNS domain with your custom url
+
     Name | Type | Data
     --- | --- | ---
     www | CNAME | *username*.github.io
     @ | A | 192.30.252.153
+
 - Further information for using custom URL https://help.github.com/articles/using-a-custom-domain-with-github-pages/
 
 
