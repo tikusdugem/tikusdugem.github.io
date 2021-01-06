@@ -29,6 +29,10 @@
     --- | --- | ---
     www | CNAME | *username*.github.io
     @ | A | 192.30.252.153
+    @ | A | 185.199.108.153
+    @ | A | 185.199.109.153
+    @ | A | 185.199.110.153
+    @ | A | 185.199.111.153
 
 - Further information for using custom URL https://help.github.com/articles/using-a-custom-domain-with-github-pages/
 
