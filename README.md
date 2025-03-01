@@ -28,7 +28,6 @@
     Name | Type | Data
     --- | --- | ---
     www | CNAME | *username*.github.io
-    @ | A | 192.30.252.153
     @ | A | 185.199.108.153
     @ | A | 185.199.109.153
     @ | A | 185.199.110.153
@@ -47,6 +46,10 @@
 - Move to the directory repo
     ```
     cd tikusdugem.github.io
+    ```
+- Make sure your Node Version start with === 10 (TODO: Update Project)
+    ```
+    node -v
     ```
 - Run NPM
     ```
